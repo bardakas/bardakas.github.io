@@ -1044,23 +1044,23 @@ module.exports =
         }, {
           original: './images/owl1.jpg',
           originalClass: 'featured-slide',
-          description: 'TriArt'
+          description: 'Lunar Hunter'
         }, {
           original: './images/tri_two.jpg',
           originalClass: 'featured-slide',
-          description: 'TriArt'
+          description: 'Alice\'s offering'
         }, {
           original: './images/tri_three.jpg',
           originalClass: 'featured-slide',
-          description: 'TriArt'
+          description: 'Cunning Bubo'
         }, {
           original: './images/three.jpg',
           originalClass: 'featured-slide wide',
-          description: 'TriArt'
+          description: 'Concept'
         }, {
           original: './images/wise.jpg',
           originalClass: 'featured-slide',
-          description: 'Owl'
+          description: 'Wise Owl'
         }, {
           original: './images/family.jpg',
           originalClass: 'featured-slide',
@@ -1077,6 +1077,10 @@ module.exports =
           original: './images/prince.jpg',
           originalClass: 'featured-slide',
           description: 'Sad Prince'
+        }, {
+          original: './images/owl_two.jpg',
+          originalClass: 'featured-slide',
+          description: 'Avant-garde'
         }];
 
         return _react2['default'].createElement(
